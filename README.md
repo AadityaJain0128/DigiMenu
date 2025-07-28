@@ -26,7 +26,7 @@ You will need to have Python and `pip` installed on your system.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/AadityaJain0128/DigiMenu.git](https://github.com/AadityaJain0128/DigiMenu.git)
+    git clone https://github.com/AadityaJain0128/DigiMenu.git
     cd DigiMenu
     ```
 
